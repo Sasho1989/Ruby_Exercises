@@ -32,6 +32,6 @@ puts "Oh, that's why it's false"
 puts "How about some more"
 
 # This will print out question and true and false results
-puts "Is it greater?", 5 > -2
-Puts "Is it greater or equal?", 5 >= -2
+puts "Is it greater?", 5 > -2 
+puts "Is it greater or equal?", 5 >= -2
 puts "Is it less or equal?", 5 <= -2 
