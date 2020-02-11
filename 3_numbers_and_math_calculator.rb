@@ -4,8 +4,8 @@ c = (a + b).to_i #This will make ruby print a integer number
 puts c
 
 
-a = 25.4
-b = 13.5676
+a = 25
+b = 13
 c = (a + b).to_f #This will make ruby print a decimal number, floating point
 puts c
 
